@@ -85,6 +85,9 @@ The dataset contains anonymized credit card transactions.
 ### Logistic Regression
 Logistic Regression is a strong baseline model for binary classification problems.
 
+**Google Colab Link:**https://colab.research.google.com/drive/1bOkXQosRPQiJruitpSrHUUlpnIiaMyCp?usp=sharing
+
+
 Since the dataset is imbalanced, we used:
 
 ```python
@@ -119,4 +122,4 @@ Handled class imbalance using class_weight="balanced".
 Scaled Time and Amount features for better training.
 Evaluated model using classification metrics and curves.
 
-**Google Colab Link:**https://colab.research.google.com/drive/1bOkXQosRPQiJruitpSrHUUlpnIiaMyCp?usp=sharing
+
